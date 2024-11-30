@@ -3,7 +3,7 @@ import type { NextRequest } from 'next/server';
 
 export function middleware(request: NextRequest) {
   if (request.nextUrl.pathname === '/visit/candy-ai') {
-    return NextResponse.redirect('https://your-affiliate-link-here.com');
+    return NextResponse.redirect('https://candy.ai/');
   }
   return NextResponse.next();
 }
