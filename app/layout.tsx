@@ -24,7 +24,7 @@ export const metadata: Metadata = {
 
     images: [
       {
-        url: 'https://ai-sexy-girlfriend/aigrilfriend.jpeg',
+        url: 'https://ai-sexy-girlfriend/aigirlfriend.jpeg',
         width: 800,
         height: 400,
         alt: 'Les meilleurs casino en ligne | Bookofbonus',
@@ -41,6 +41,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fr">
+      <head>
+        <link rel="icon" href="/aigirlfriend.jpeg" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );
