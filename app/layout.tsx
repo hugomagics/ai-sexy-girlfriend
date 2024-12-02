@@ -5,19 +5,19 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://sexy-ai-girlfriend.fr'),
+  metadataBase: new URL('https://ai-sexy-girlfriend.fr/'),
   title: "Sexy AI Girlfriend | Ta petite amie virtuelle parfaite",
   description: 'Découvre ta petite amie IA idéale - une compagne virtuelle intelligente, attentionnée et captivante. Profite de conversations enrichissantes et de véritables connexions grâce à une technologie IA avancée.',
 
   alternates: {
-    canonical: 'https://sexy-ai-girlfriend.fr',
+    canonical: 'https://ai-sexy-girlfriend.fr/',
   },
 
   openGraph: {
     title: 'Sexy AI Girlfriend | Ta Compagne Virtuelle Parfaite',
     description: 'Crée des liens authentiques avec une petite amie IA intelligente et attentionnée. Commence dès maintenant ton aventure vers des relations virtuelles pleines de sens.',
   
-    url: 'https://sexy-ai-girlfriend.fr',
+    url: 'https://ai-sexy-girlfriend.fr/',
     siteName: 'Sexy AI Girlfriend',
     locale: 'fr',
     type: 'website',
