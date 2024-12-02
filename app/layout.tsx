@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         url: 'https://ai-sexy-girlfriend.fr/aigirlfriend.jpeg',
         width: 800,
         height: 400,
-        alt: 'Les meilleurs casino en ligne | Bookofbonus',
+        alt: 'Découvre la plus sexy des petites amies IA',
       },
     ],
   },
